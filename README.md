@@ -1,2 +1,4 @@
-# Git-demo
-Trying Git commits for practice 
+# git-demo
+Trying Git commits for practice.
+<br>
+learn add,commit,pull ,push,origin,etc git commands 
