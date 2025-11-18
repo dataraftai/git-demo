@@ -1,2 +1,2 @@
-# git-demo
-Trying Git commits 
+# Git-demo
+Trying Git commits for practice 
